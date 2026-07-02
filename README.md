@@ -1,4 +1,4 @@
-# Networking — a LinkedIn networking skill for Claude
+# Networking - a LinkedIn networking skill for Claude
 
 A value-first playbook that turns Claude into a LinkedIn networking partner. It researches the people you want to reach, drafts personalized connection requests, DMs, and InMail, builds full outreach campaigns, and runs the follow-up, thank-you, and nurture sequences that compound cold outreach into warm introductions.
 
